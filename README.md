@@ -4,21 +4,21 @@ West Bengal Electronics Industry Development Corporation Limited
 পশ্চিমবঙ্গ ইলেকট্রনিক্স শিল্প উন্নয়ন কর্পোরেশন লিমিটেড  
 
 ### Basic
-![](/export_1 basic.png)
+![](/export_1%20basic.png)
 
 ### Cabins
-![](/export_2 cabins.png)
+![](/export_2%20cabins.png)
 
 ### Tables
-![](export_3 tables.png)
+![](export_3%20tables.png)
 
 ### Chairs
-![](/export_4 chairs.png)
+![](/export_4%20chairs.png)
 
 ### Projector
-![](/export_5 projector.png)
+![](/export_5%20projector.png)
 
 ### All
-![](export_6 all.png)
+![](export_6%20all.png)
 
 Previous revision: https://github.com/suvozit/Webel/commit/a23f48f
