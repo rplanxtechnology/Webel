@@ -21,4 +21,4 @@ West Bengal Electronics Industry Development Corporation Limited
 ### All
 ![](export_6%20all.png)
 
-Previous revision: a23f48f6904840fa26eb69d8ff1e792fe767cf10
+Previous revision: [a23f48f](https://github.com/suvozit/Webel/commit/a23f48f6904840fa26eb69d8ff1e792fe767cf10)
